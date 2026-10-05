@@ -1,0 +1,6 @@
+{
+  "name": "Year-End Team Night",
+  "description": "One-page invitation and event guide for the Year-End Team Night on Friday 12 December at the Office Rooftop, Level 12.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
